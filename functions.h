@@ -14,3 +14,8 @@ void addedFunction()
 {
   std::cout << "Other SubRepo funciton\n";
 }
+
+float testingMore()
+{
+    return 3.14f;
+}
